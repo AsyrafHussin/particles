@@ -1,5 +1,9 @@
 # Particles Canvas
 
+<div align="center">
+   <img src="screenshot.png" width="800" />
+</div
+
 ## Getting Started
 
 ```bash
